@@ -1,0 +1,6 @@
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\bin\Debug\Odtwarzacz.exe.config
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\bin\Debug\Odtwarzacz.exe
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\bin\Debug\Odtwarzacz.pdb
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.exe
+C:\Users\Syzyf\source\repos\Odtwarzacz\Odtwarzacz\obj\Debug\Odtwarzacz.pdb
